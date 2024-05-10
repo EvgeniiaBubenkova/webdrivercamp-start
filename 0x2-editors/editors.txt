@@ -1,0 +1,17 @@
+0. to open a file: Ctrl +x, CTRL+f
+1. to save a file: Ctrl+x Ctrl+s
+2. to cut an entire line: Ctrl+k
+3. to paste: Ctrl+y
+5. to undo: Ctrl+/ u
+6. to quit Emacs Ctrl+x Ctrl+c
+Vi
+7. to insert text before the cursor: "I" 
+   after the cursor: "A"
+8. to delete: "dd"
+   cut the current line: "dd"
+10. to undo what you just did: "u"
+11. to quit vi even though latest changes have not been saved for this vi call: ":q!"
+12. to move the cursor to the start of the current line: "0"
+13. to move the cursor to the end of the line: "$"
+
+
